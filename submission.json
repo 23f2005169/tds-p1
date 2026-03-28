@@ -1,0 +1,7 @@
+{
+  "prompt": "A human heart made of glacier ice floating in a dark ocean, melting and cracking with red heat inside, symbolizing rising global temperatures.",
+  "model": "DALL·E 3",
+  "dataset_name": "Global Surface Temperature Anomalies",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Global temperatures have risen sharply in recent decades, signaling accelerating planetary warming."
+}
